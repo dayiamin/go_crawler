@@ -42,7 +42,7 @@ func routine(url, mainDir, browserPath, filesDir string)(journalsCounts int) {
 
 func main() {
 	var urls = []string{
-		"https://journals.aps.org/all_journals",
+		"https://target-website",
 
 	}
 	
